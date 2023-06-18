@@ -1,11 +1,11 @@
 .main{
-	width:200px;
-}
-#heading{
 	background-color:purple;
+	width:200px;
 	border-left-width:5px;
 	border-left-color:green;
 	padding:10px;
+}
+#heading{
 	color:white;
 	font-size:20px;
 }
